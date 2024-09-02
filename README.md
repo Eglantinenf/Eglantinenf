@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a Computer Engineering student from Iran with 
 I’m Nastaran Farjami, a Computer Engineering student from Iran with a strong passion for coding and web development. I love exploring new technologies and building innovative solutions. Here’s a bit about me:  
 
 - 🎓 **Currently** studying Computer Engineering, diving into both hardware and software aspects.  
-- 🌐 **Front-End Developer**: I enjoy creating interactive web applications using **HTML**, **CSS**, and **JavaScript**. I recently worked on a portfolio website that I’m really proud of!  
+- 🌐 **Front-End Developer**: I enjoy creating interactive web applications using **HTML**, **CSS**, and **JavaScript**.  
 - 🐍 **Python Enthusiast**: Python is my go-to language for scripting and projects, and I’ve used it for various tasks.  
 - 🚀 **Future Learner**: I’m eager to learn **React.js** to enhance my skills in building modern and responsive user interfaces.  
 - 🎯 **Career Goals**: I aim to become a full-stack developer, combining my front-end skills with back-end technologies.  
