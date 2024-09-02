@@ -6,14 +6,15 @@ Welcome to my GitHub profile! I'm a Computer Engineering student from Iran with 
 
 ## 🚀 About Me  
 
-Hello! I'm Nastaran Farjami, a Computer Engineering student from Iran with a deep passion for coding and web development. I enjoy exploring new technologies and building innovative solutions. Here’s a bit about me:  
+I’m Nastaran Farjami, a Computer Engineering student from Iran with a strong passion for coding and web development. I love exploring new technologies and building innovative solutions. Here’s a bit about me:  
 
-- 🎓 **Currently** studying Computer Engineering, delving into both hardware and software aspects.  
-- 🌐 **Front-End Developer**: Crafting interactive web applications with **HTML**, **CSS**, and **JavaScript**.  
-- 🐍 **Python Enthusiast**: Extensive experience with Python, my go-to language for scripting and projects.  
-- 🚀 **Future Learner**: Eager to dive into **React.js** to enhance my skills in creating modern and responsive user interfaces.  
-- 🤝 **Open to Collaboration**: Always on the lookout for new opportunities and projects in web development.  
-- 🎶 **Fun Fact**: Music is my coding companion—it keeps me focused and inspired! 😊  
+- 🎓 **Currently** studying Computer Engineering, diving into both hardware and software aspects.  
+- 🌐 **Front-End Developer**: I enjoy creating interactive web applications using **HTML**, **CSS**, and **JavaScript**. I recently worked on a portfolio website that I’m really proud of!  
+- 🐍 **Python Enthusiast**: Python is my go-to language for scripting and projects, and I’ve used it for various tasks.  
+- 🚀 **Future Learner**: I’m eager to learn **React.js** to enhance my skills in building modern and responsive user interfaces.  
+- 🎯 **Career Goals**: I aim to become a full-stack developer, combining my front-end skills with back-end technologies.  
+- 🤝 **Open to Collaboration**: I’m always looking for new opportunities and projects in web development.  
+- 🎶 **Fun Fact**: I love listening to music while I code—it keeps me focused and inspired! 🥸  
 
 ---  
 
