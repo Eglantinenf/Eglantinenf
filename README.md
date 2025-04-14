@@ -37,8 +37,6 @@ I’m Nastaran Farjami, a Computer Engineering student from Iran with a strong p
   <img src="https://img.icons8.com/fluency/48/typescript.png" alt="TypeScript" title="TypeScript" />  
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/websocket.svg" alt="WebSocket" title="WebSocket" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/vite.png" alt="Vite" title="Vite" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" title="Redux" width="48" height="48" />
-  <img src="https://img.icons8.com/ios/50/zeit.png" alt="Zustand" title="Zustand" width="48" height="48" />
 </p>  
 
 ### Databases  
