@@ -35,7 +35,6 @@ I’m Nastaran Farjami, a Computer Engineering student from Iran with a strong p
   <img src="https://img.icons8.com/plasticine/48/react.png" alt="React.js" title="React.js" />  
   <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" />  
   <img src="https://img.icons8.com/fluency/48/typescript.png" alt="TypeScript" title="TypeScript" />  
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/websocket.svg" alt="WebSocket" title="WebSocket" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/vite.png" alt="Vite" title="Vite" width="48" height="48" />
 </p>  
 
