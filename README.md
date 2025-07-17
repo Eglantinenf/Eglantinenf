@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20Nastaran%20Farjami!;Frontend%20Developer%20💻;React%20%26%20TypeScript%20Enthusiast%20🚀;Lifelong%20Learner%20📚" alt="Typing SVG" />
+    ![Typing Effect](https://github.com/your-username/your-repo/blob/main/typing.gif)
 </p>
 
 <p align="center">
