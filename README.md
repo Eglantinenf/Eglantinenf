@@ -60,8 +60,9 @@ I'm constantly improving, learning new technologies, and sharing my journey thro
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eglantinenf&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Eglantinenf&theme=tokyonight&hide_border=true" width="70%" />
 </p>
+
 
 ## 🌐 Connect With Me
 
