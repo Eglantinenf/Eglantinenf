@@ -1,6 +1,4 @@
-<p align="center">
-    ![Typing Effect](https://github.com/your-username/your-repo/blob/main/typing.gif)
-</p>
+![Typing Effect](https://github.com/your-username/your-repo/blob/main/typing.gif)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nastaran%20Farjami&fontSize=40&fontAlignY=35&desc=Front-End%20Developer%20from%20Iran&descAlignY=55&animation=fadeIn" />
