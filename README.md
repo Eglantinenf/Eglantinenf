@@ -56,18 +56,12 @@ I'm constantly improving, learning new technologies, and sharing my journey thro
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eglantinenf&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eglantinenf&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Eglantinenf&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
----
-
-## 🔥 GitHub Streak (reliable method)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Eglantinenf&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eglantinenf&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
