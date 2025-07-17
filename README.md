@@ -1,65 +1,85 @@
-# 🌟 Hi there, I'm Nastaran Farjami! 👋  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20Nastaran%20Farjami!;Frontend%20Developer%20💻;React%20%26%20TypeScript%20Enthusiast%20🚀;Lifelong%20Learner%20📚" alt="Typing SVG" />
+</p>
 
-Welcome to my GitHub profile! I'm a Computer Engineering student from Iran with a passion for coding, technology, and continuous learning.  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nastaran%20Farjami&fontSize=40&fontAlignY=35&desc=Front-End%20Developer%20from%20Iran&descAlignY=55&animation=fadeIn" />
+</p>
 
----  
+---
+
+# 🌟 Hi there! I'm Nastaran Farjami 👋  
+
+🎓 Computer Engineering student from Iran with a strong passion for **coding**, **web development**, and **building cool digital experiences**. I'm all about **learning new technologies**, writing **clean code**, and having fun along the way 🚀
+
+---
 
 ## 🚀 About Me  
 
-I’m Nastaran Farjami, a Computer Engineering student from Iran with a strong passion for coding and web development. I love exploring new technologies and building innovative solutions. Here’s a bit about me:  
+- 💻 **Front-End Developer**: Specializing in **HTML**, **CSS**, **JavaScript**, and growing with **React.js** & **TailwindCSS**.
+- ⚛️ Currently exploring **React**, **TypeScript**, and **Vite**.
+- 🐍 Love using **Python** for scripts and side projects.
+- 🌱 Always working on **real-world projects** and sharing my progress on GitHub.
+- 🎯 **Goal**: Become a professional **MERN Stack Developer** with strong UI/UX skills.
+- 🤝 Open to **collaborations** on cool web development projects.
+- 📬 Always down to connect and talk about tech!
 
-- 🎓 **Currently** studying Computer Engineering, diving into both hardware and software aspects.  
-- 🌐 **Front-End Developer**: Skilled in **HTML**, **CSS**, and **JavaScript**, with growing expertise in **React.js** and **Tailwind CSS**.
-- 🐍 **Python Enthusiast**: Python is my go-to language for scripting and projects, and I’ve used it for various tasks.  
-- ⚛️ **Learning React.js**: Excited to explore **React.js** and modern libraries for responsive user interfaces. 
-- 🎯 **Career Goals**: Becoming a **MERN Stack Developer** to build full-stack applications.  
-- 🤝 **Open to Collaboration**: I’m always looking for new opportunities and projects in web development.
+---
 
----  
+## 🛠️ Tech Stack
 
-## 🛠️ Technologies & Tools  
+### 🚀 Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-### Languages & Frameworks  
+### 🗄️ Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 
-#### Skilled At  
-<p>  
-  <img src="https://img.icons8.com/fluency/48/html-5.png" alt="HTML5" title="HTML5" />  
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3" />  
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript" />  
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python" />  
-</p>  
+---
 
-#### Beginner  
-<p>  
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" title="Node.js" />  
-  <img src="https://img.icons8.com/plasticine/48/react.png" alt="React.js" title="React.js" />  
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" />  
-  <img src="https://img.icons8.com/fluency/48/typescript.png" alt="TypeScript" title="TypeScript" />  
-  <img src="https://img.icons8.com/color/48/vite.png" alt="Vite" title="Vite" width="48" height="48" />
-</p>  
+## 📌 Featured Projects
 
-### Databases  
-<p>  
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB" />  
-</p>  
+- 🎨 [**Personal Portfolio Website**](https://github.com/Eglantinenf/my-portfolio.git)  
+  My sleek, personal portfolio using **Next.js**, **React**, and **TailwindCSS**.
 
-### Tools & Platforms  
-<p>  
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" />  
-  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" title="GitHub" />  
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code" />  
-  <img src="https://img.icons8.com/color/48/npm.png" alt="NPM" title="NPM" />  
-</p>  
+- 💡 [**Weather React Project**](https://github.com/Eglantinenf/WeatherApp-React.js-Tailwind-.git)  
+  A cool interactive project showcasing my **React.js** & **TypeScript** learning journey.
 
----  
+- 📝 [**Todo List App**](https://github.com/Eglantinenf/TodoList-React.js-Tailwind.git)  
+  Minimal, responsive **React Todo App** with beautiful UI.
 
-## 🌐 Connect with Me  
+---
 
-<p>  
-  <a href="https://www.linkedin.com/in/nastaran-farjami-63b33928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">  
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn" />  
-  </a>  
-  <a href="#" target="_blank" rel="noopener noreferrer">  
-    <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" title="Telegram" />  
-  </a>  
-</p>  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NastaranFarjami&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NastaranFarjami&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NastaranFarjami&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nastaran-farjami-63b33928b" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" />
+  </a>
+</p>
+
+<p align="center">✨ Always learning, always building. Let's connect! ✨</p>
