@@ -1,5 +1,3 @@
-![Typing Effect](https://github.com/your-username/your-repo/blob/main/typing.gif)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nastaran%20Farjami&fontSize=40&fontAlignY=35&desc=Front-End%20Developer%20from%20Iran&descAlignY=55&animation=fadeIn" />
 </p>
@@ -48,13 +46,13 @@
 
 ## 📌 Featured Projects
 
-- 🎨 [**Personal Portfolio Website**](https://github.com/Eglantinenf/my-portfolio.git)  
+- 🎨 [**Personal Portfolio Website**](https://github.com/Eglantinenf/my-portfolio)  
   My sleek, personal portfolio using **Next.js**, **React**, and **TailwindCSS**.
 
-- 💡 [**Weather React Project**](https://github.com/Eglantinenf/WeatherApp-React.js-Tailwind-.git)  
+- 💡 [**Weather React Project**](https://github.com/Eglantinenf/WeatherApp-React.js-Tailwind-)  
   A cool interactive project showcasing my **React.js** & **TypeScript** learning journey.
 
-- 📝 [**Todo List App**](https://github.com/Eglantinenf/TodoList-React.js-Tailwind.git)  
+- 📝 [**Todo List App**](https://github.com/Eglantinenf/TodoList-React.js-Tailwind)  
   Minimal, responsive **React Todo App** with beautiful UI.
 
 ---
@@ -62,9 +60,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NastaranFarjami&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NastaranFarjami&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NastaranFarjami&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eglantinenf&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eglantinenf&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eglantinenf&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
