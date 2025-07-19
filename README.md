@@ -39,6 +39,15 @@ I enjoy learning new technologies and solving problems with code.
 
 ---
 
+## 📌 My Projects
+
+| Project | Tech Stack | Link |
+| -------- | ---------- | ---- |
+| Portfolio Website | React, TailwindCSS | [Repo](https://github.com/Eglantinenf/my-portfolio) |
+| Weather App | React, TypeScript | [Repo](https://github.com/Eglantinenf/WeatherApp-React.js-Tailwind-) |
+| Todo List | React, TailwindCSS | [Repo](https://github.com/Eglantinenf/TodoList-React.js-Tailwind) |
+
+
 ## 📌 Featured Projects
 
 - 🎨 [**Personal Portfolio Website**](https://github.com/Eglantinenf/my-portfolio)  
