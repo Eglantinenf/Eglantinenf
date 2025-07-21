@@ -51,15 +51,6 @@ I enjoy learning new technologies and solving problems with code.
 - 📝 [**Todo List App**](https://github.com/Eglantinenf/TodoList-React.js-Tailwind)  
   Minimal and clean **React** todo app.
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eglantinenf&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eglantinenf&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
 
 ---
 
