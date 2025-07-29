@@ -51,20 +51,6 @@ I enjoy learning new technologies and solving problems with code.
 - 📝 [**Todo List App**](https://github.com/Eglantinenf/TodoList-React.js-Tailwind)  
   Minimal and clean **React** todo app.
 
-
----
-
-## Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nastaran-farjami-63b33928b" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" />
-  </a>
-</p>
-
 ---
 
 ## 📈 GitHub Stats
@@ -80,3 +66,18 @@ I enjoy learning new technologies and solving problems with code.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eglantinenf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
+## Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nastaran-farjami-63b33928b" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" />
+  </a>
+</p>
+
+
