@@ -76,4 +76,3 @@ I enjoy learning new technologies and solving problems with code.
   </a>
 </p>
 
-:)
