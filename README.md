@@ -17,25 +17,25 @@ I enjoy learning new technologies and solving problems with code.
 ## 🛠️ Tech Stack
 
 ### ✅ Skilled
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/> 
+![HTML5](https://skillicons.dev/icons?i=html)&nbsp;&nbsp;
+![CSS3](https://skillicons.dev/icons?i=css)&nbsp;&nbsp;
+![JavaScript](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;
+![React](https://skillicons.dev/icons?i=react)&nbsp;&nbsp;
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)&nbsp;&nbsp;
+![Python](https://skillicons.dev/icons?i=python)&nbsp;&nbsp;
+![TypeScript](https://skillicons.dev/icons?i=ts)
 
 ### 🟣 Currently Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" style="filter: drop-shadow(0px 0px 10px #000);"/> 
-<img src="https://skillicons.dev/icons?i=vite" width="60"/> 
+![Node.js](https://skillicons.dev/icons?i=nodejs)&nbsp;&nbsp;
+![Next.js](https://skillicons.dev/icons?i=nextjs)&nbsp;&nbsp;
+![Vite](https://skillicons.dev/icons?i=vite)
 
 ### 🗄️ Databases & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" style="filter: drop-shadow(0px 0px 10px #fff);"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60"/> 
+![MongoDB](https://skillicons.dev/icons?i=mongodb)&nbsp;&nbsp;
+![Git](https://skillicons.dev/icons?i=git)&nbsp;&nbsp;
+![GitHub](https://skillicons.dev/icons?i=github)&nbsp;&nbsp;
+![VSCode](https://skillicons.dev/icons?i=vscode)&nbsp;&nbsp;
+![NPM](https://skillicons.dev/icons?i=npm)
 
 ---
 
