@@ -17,25 +17,25 @@ I enjoy learning new technologies and solving problems with code.
 ## 🛠️ Tech Stack
 
 ### ✅ Skilled
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Python](https://skillicons.dev/icons?i=python)
-![TypeScript](https://skillicons.dev/icons?i=ts)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/> 
 
 ### 🟣 Currently Learning
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Vite](https://skillicons.dev/icons?i=vite)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" style="filter: drop-shadow(0px 0px 10px #000);"/> 
+<img src="https://skillicons.dev/icons?i=vite" width="60"/> 
 
 ### 🗄️ Databases & Tools
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![NPM](https://skillicons.dev/icons?i=npm)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" style="filter: drop-shadow(0px 0px 10px #fff);"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60"/> 
 
 ---
 
