@@ -1,3 +1,5 @@
+ok now check my whole readme
+
 # Hi, I’m Nastaran Farjami 👋
 
 I’m a Computer Engineering student from Iran with a passion for building clean and efficient web applications.  
@@ -42,9 +44,9 @@ I enjoy learning new technologies and solving problems with code.
 
 ## 📌 Featured Projects
 
-- 🎨 [**Personal Portfolio Website**](https://github.com/Eglantinenf/my-portfolio)
+- 🎨 [**Personal Portfolio Website**](https://github.com/Eglantinenf/my-portfolio)  
   Built with **Next.js**, **React**, and **TailwindCSS**.
-  
+
 - 💡 [**Weather React Project**](https://github.com/Eglantinenf/WeatherApp-React.js-Tailwind-)  
   Interactive React project using live API data.
 
@@ -75,4 +77,3 @@ I enjoy learning new technologies and solving problems with code.
     <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" />
   </a>
 </p>
-
