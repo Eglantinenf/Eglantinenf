@@ -43,7 +43,7 @@ I enjoy learning new technologies and solving problems with code.
 ## 📌 Featured Projects
 
 - 🎨 [**Personal Portfolio Website**](https://github.com/Eglantinenf/my-portfolio)  
-  Built with **Next.js**, **React**, and **TailwindCSS**.
+  Built with ![Next.js](https://skillicons.dev/icons?i=nextjs) ![React](https://skillicons.dev/icons?i=react) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 
 - 💡 [**Weather React Project**](https://github.com/Eglantinenf/WeatherApp-React.js-Tailwind-)  
   Interactive React project using live API data.
