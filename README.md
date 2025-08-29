@@ -28,6 +28,7 @@ I enjoy learning new technologies and solving problems with code.
 
 ### 🟣 Currently Learning
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Next.js-339933?style=flat&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ### 🗄️ Databases & Tools
