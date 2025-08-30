@@ -1,5 +1,3 @@
-ok now check my whole readme
-
 # Hi, I’m Nastaran Farjami 👋
 
 I’m a Computer Engineering student from Iran with a passion for building clean and efficient web applications.  
