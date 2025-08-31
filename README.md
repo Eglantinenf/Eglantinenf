@@ -7,8 +7,8 @@ I enjoy learning new technologies and solving problems with code.
 
 ## About Me
 
-- 💻 Front-End Developer focused on **React.js**, **JavaScript**, and **Tailwind CSS**.  
-- ⚙️ Learning **TypeScript**, **Node.js**, and **Vite** to build full-stack projects.  
+- 💻 Front-End Developer focused on **React.js**, **TypeScript**, and **Tailwind CSS**.  
+- ⚙️ Learning **Next.js**, **Node.js**, and **Vite** to build full-stack projects.  
 - 🐍 Use **Python** for scripting and automation.  
 - 🎯 Goal: Become a MERN Stack Developer and improve UI/UX skills.  
 - 🤝 Open to collaborating on projects and sharing knowledge.
